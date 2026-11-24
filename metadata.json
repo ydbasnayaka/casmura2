@@ -1,0 +1,6 @@
+{
+  "name": "Casmura Contract — Luxury Hospitality Drapery & Architectural Shading",
+  "description": "Precision contract drapery, automated blinds, and architectural shade structures tailored for luxury villas, 5-star resorts, and premier residences across the Indian Ocean and Middle East.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
